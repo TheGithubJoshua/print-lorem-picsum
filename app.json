@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "print-lorem-picsum",
+    "slug": "snack-11d25601-804a-4945-8319-7c098cbb2711",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.joshua.plp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.joshua.plp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Prints a random image"
+  }
+}

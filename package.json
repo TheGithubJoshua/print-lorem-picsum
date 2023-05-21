@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~48.0.15",
+    "expo-print": "~12.0.0",
+    "expo-sharing": "~11.0.1",
+    "expo-status-bar": "~1.4.2",
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "react-native-rapi-ui": "*",
+    "expo-splash-screen": "~0.18.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true,
+  "name": "print-lorem-picsum",
+  "version": "1.0.0"
+}
