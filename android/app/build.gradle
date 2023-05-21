@@ -113,7 +113,7 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace 'com.joshua.plp'
+    namespace "com.printlorempicsum"
     defaultConfig {
         applicationId 'com.joshua.plp'
         minSdkVersion rootProject.ext.minSdkVersion
